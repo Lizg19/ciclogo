@@ -32,8 +32,17 @@ además de su número telefónico.
 
     <img src="https://user-images.githubusercontent.com/65980001/188598976-527e86c4-f0ae-4de5-b35a-5fb787bb1e46.png" width="250" >
 
-      > Dentro de la interfaz de los ciclistas, al seleccionar en un ciclista le mostrará las ubicaciones en las que ha estado cualquier ciclista.
-        Además de proveer información como la fecha y hora en la que estuvo en esa posición
+      > Dentro de la interfaz de los ciclistas, al seleccionar en un ciclista le mostrará las ubicaciones en las que ha 
+        estado cualquier ciclista. Además de proveer información como la fecha y hora en la que estuvo en esa posición
     
     <img src="https://user-images.githubusercontent.com/65980001/188599408-c1b31d00-c6f6-48ea-9165-4aef18e7a803.png" width="250" >
 
+### RECOMENDACIONES
+    > - La aplicación no mostrará s posición actual si no activa y da permisos de ubicación. 
+        Para lo cual deberá activar el GPS de su dispositivo.
+    > - Adicinal a esto deberá dar permisos de ubicación de la aplicación.
+        Para otorgar estos permisos deberá acceder a los detalles de la aplicación tal como se indica en la figura.
+        
+    <img src="https://user-images.githubusercontent.com/65980001/188600475-614b77c5-c924-432a-a4bc-bbf1c1e51272.png" width="250" >
+
+    
