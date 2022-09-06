@@ -49,5 +49,15 @@ además de su número telefónico.
     
    <img src="https://user-images.githubusercontent.com/65980001/188601059-f28a2772-41d2-4ebe-b35f-21bda1f210d7.png" width="250" >
 
+    > - Una vez establecido los permisos correspondientes la aplicación funcionará sin ningún problema.
 
+## SITIO WEB
+Acontinuación se presenta el sitio web, con la información que tiene el aplicativo móvil.
+#### LOGIN
+![image](https://user-images.githubusercontent.com/65980001/188602000-db417063-f3ca-4563-8eff-94505608cc61.png)
+
+#### REGISTER
+#### DASHBOARD
+#### UBICACIONES DE LOS CICLISTAS
+#### MAPA
 
