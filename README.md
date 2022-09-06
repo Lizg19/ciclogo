@@ -57,7 +57,39 @@ Acontinuación se presenta el sitio web, con la información que tiene el aplica
 ![image](https://user-images.githubusercontent.com/65980001/188602000-db417063-f3ca-4563-8eff-94505608cc61.png)
 
 #### REGISTER
-#### DASHBOARD
-#### UBICACIONES DE LOS CICLISTAS
-#### MAPA
+![image](https://user-images.githubusercontent.com/65980001/188602119-02c48f7a-3987-4fae-b2d9-4fd8eb54c758.png)
 
+#### DASHBOARD
+![image](https://user-images.githubusercontent.com/65980001/188602209-035213ed-3d4c-4b03-9ca5-9c6308be925a.png)
+
+#### UBICACIONES DE LOS CICLISTAS
+![image](https://user-images.githubusercontent.com/65980001/188602255-d330f1f8-56cf-425b-b370-9a789b9aa076.png)
+
+#### MAPA
+![image](https://user-images.githubusercontent.com/65980001/188602318-6ec35989-4f5c-40d3-98bb-cf5bb89a9a7d.png)
+
+# INTEGRANTES
+- Lizbeth García
+- Kevin Veliz
+- Christopher Vera
+
+# VIDEOS
+- Manual de Usuario: 
+- Manual Técnico:
+
+# INSTALAR APLICATIVO MÓVIL 
+
+
+# INSTALAR APLICATIVO WEB
+- CLonar el repositorio
+```
+git clone https://github.com/Lizg19/ciclogo.git
+```
+- Instalar las respectivas dependencias
+```
+npm install
+```
+- Levantar Servidor
+```
+npm start
+```
