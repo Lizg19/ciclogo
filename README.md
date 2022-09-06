@@ -1,4 +1,8 @@
-# CICLOGO 
+# CICLO-GO 
+# INTEGRANTES
+- Lizbeth García
+- Kevin Veliz
+- Christopher Vera
 ## PROYECTO
 El proyecto consiste en un aplicativo móvil, el cual esta enfocado a ciclistas. El proyecto tiene como finalidad saber la geolocalización del jugador y de los demás jugadores 
 de su equipo.
@@ -68,17 +72,17 @@ Acontinuación se presenta el sitio web, con la información que tiene el aplica
 #### MAPA
 ![image](https://user-images.githubusercontent.com/65980001/188602318-6ec35989-4f5c-40d3-98bb-cf5bb89a9a7d.png)
 
-# INTEGRANTES
-- Lizbeth García
-- Kevin Veliz
-- Christopher Vera
 
 # VIDEOS
 - Manual de Usuario: 
 - Manual Técnico:
 
 # INSTALAR APLICATIVO MÓVIL 
-
+- CLonar el repositorio
+```
+git clone https://github.com/Lizg19/ciclogo.git
+```
+- Iniciar el repositorio clonado en el respectivo IDE para dispositivos móviles.
 
 # INSTALAR APLICATIVO WEB
 - CLonar el repositorio
