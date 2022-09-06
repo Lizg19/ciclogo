@@ -4,7 +4,7 @@
 - Kevin Veliz
 - Christopher Vera
 ## PROYECTO
-El proyecto consiste en un aplicativo móvil, el cual esta enfocado a ciclistas. El proyecto tiene como finalidad saber la geolocalización del jugador y de los demás jugadores 
+El proyecto consiste en un aplicativo móvil, el cual esta enfocado a ciclistas. El proyecto tiene como finalidad saber la geolocalización del ciclista y de los demás integrantes del equipo. 
 de su equipo.
 
 <img src="https://user-images.githubusercontent.com/65980001/188595111-4a745390-21fa-4187-a210-751fa04796f8.png" width="250" >
