@@ -47,7 +47,7 @@ además de su número telefónico.
 
     > - Después procederá a establecer los permisos de ubicación
     
-   <img src="(https://user-images.githubusercontent.com/65980001/188601059-f28a2772-41d2-4ebe-b35f-21bda1f210d7.png)" width="250" >
+   <img src="https://user-images.githubusercontent.com/65980001/188601059-f28a2772-41d2-4ebe-b35f-21bda1f210d7.png" width="250" >
 
 
 
