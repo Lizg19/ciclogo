@@ -1,23 +1,26 @@
 import { getAuth, createUserWithEmailAndPassword } from 'firebase/auth';
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
-import { app } from '../firebase/firebase';
+import { app, auth } from '../firebase/firebase';
 import {AiOutlineEyeInvisible, AiOutlineEye} from 'react-icons/ai'
 import { IoMdArrowBack } from "react-icons/io";
 
 export const Register = () => {
 
 
-    const [email, setEmail] = useState();
-    const [password, setPassword] = useState();
+    const [email, setEmail] = useState([]);
+    const [password, setPassword] = useState([]);
     const [viewPassword, setViewPassword] = useState();
+    const [isRegistering, setIsRegistering] = useState(false)
 
     const handleSumbit = (e) => {
         e.preventDefault();
         createUserWithEmailAndPassword(auth,email,password)
-        .then(auth => {navigate('/home')})
+        .then(()=>{navigate('/home')})
         .catch(error=>console.log(error))
     }
+
+
 
     const toggleBtn = () =>{
         setViewPassword(prevState => !prevState);
@@ -30,7 +33,6 @@ export const Register = () => {
         navigate('/Login')
     }
 
-    const auth = getAuth(app);
 
 
   return (
