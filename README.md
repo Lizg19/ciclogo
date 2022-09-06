@@ -43,6 +43,7 @@ además de su número telefónico.
     > - Adicinal a esto deberá dar permisos de ubicación de la aplicación.
         Para otorgar estos permisos deberá acceder a los detalles de la aplicación tal como se indica en la figura.
         
-    <img src="https://user-images.githubusercontent.com/65980001/188600475-614b77c5-c924-432a-a4bc-bbf1c1e51272.png" width="250" >
+   <img src="https://user-images.githubusercontent.com/65980001/188600475-614b77c5-c924-432a-a4bc-bbf1c1e51272.png" width="250" >
 
     
+
