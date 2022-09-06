@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ciclismoapp.Views.CiclistaDetailsPage"
+            Title="Historial de ubicaciones">
+    <ContentPage.Content>
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+
+            </Grid.RowDefinitions>
+
+            <StackLayout  Grid.Row="0">
+                <Label Text="Al seleccionar cualquiera de las coordenadas, se mostrará el mapa con la ubicación correspondiente. "></Label>
+            </StackLayout>
+            
+
+            <ListView Grid.Row="2" 
+                          x:Name="lstCiclistas" 
+                          ItemsSource="{Binding Localizacion}"  
+                           ItemTapped="OnItemSelected">
+                <ListView.ItemTemplate  >
+
+                    <DataTemplate>
+                        <ViewCell >
+                           
+                            <StackLayout Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{ Binding  Fecha}" FontSize="16" FontAttributes="Bold"></Label>
+                                    <Label Text="-" FontSize="16" FontAttributes="Bold"></Label>
+                                    <Label Text="{ Binding  Hora}" FontSize="16" FontAttributes="Bold"></Label>
+                                    
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                <Label Text="Coordenadas: "/>
+                                <Label  Text="{ Binding  Latitud}" x:Name="Latitud" />
+                                <Label  Text="{ Binding  Longitud}" x:Name="Longitud"  />
+                                </StackLayout>
+                                
+                            </StackLayout>
+
+                        </ViewCell>
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+            </ListView>
+
+
+
+
+
+
+
+
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>
