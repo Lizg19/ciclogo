@@ -77,6 +77,10 @@ Acontinuación se presenta el sitio web, con la información que tiene el aplica
 - Manual de Usuario: 
 - Manual Técnico:
 
+# ENLACES
+- Página Web: https://ciclogo.vercel.app/
+- APK: https://www.mediafire.com/file/5gcdmyins1tr4pe/Ciclogo.apk/file
+
 # INSTALAR APLICATIVO MÓVIL 
 - CLonar el repositorio
 ```
