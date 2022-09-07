@@ -75,7 +75,7 @@ Acontinuación se presenta el sitio web, con la información que tiene el aplica
 
 # VIDEOS
 - Manual de Usuario: https://youtu.be/dEmaa5fyXQE
-- Manual Técnico:
+- Manual Técnico: https://youtu.be/4SxrwSUft4M
 
 # ENLACES
 - Página Web: https://ciclogo.vercel.app/
